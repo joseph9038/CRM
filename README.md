@@ -22,3 +22,6 @@ For spatial indexing and querying, I'm using the exceptionally powerful PostGIS 
 For now, I'm attempting to use the wonderful [AR.js JavaScript Framework](https://github.com/jeromeetienne/AR.js) in order to create the augmented reality experience right in the browser. In the long-term I may end up porting this over to be an iOS app using ARKit, but I'm leaning into Atwood's law for the time being.
 
 I'm also refamiliarizing myself with the Google Maps JavaScript API by plotting the landmarks on a map based on user input, an API I haven't worked with in close to a decade.
+
+## Test Guidence
+https://docs.google.com/document/d/1IJKaWpA4jRa8gp_cI7oEb2ku4hCn7L3cm0B2AA1xLxU/edit?usp=sharing
